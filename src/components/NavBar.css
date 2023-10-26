@@ -1,0 +1,20 @@
+nav{
+    background-color: #12121286;
+    width: 90%;
+    margin: 10px auto;
+    border-radius: 8px;
+}
+.navbar-brand{
+    color: #ffff;
+   font-weight: bold;
+   font-size: 22px;
+}
+.nav-item{
+    color: #ffff;
+    font-weight: 600;
+}
+.active{
+    background-color: #85ff8a;
+    color: #121212;
+    border-radius: 8px;
+}

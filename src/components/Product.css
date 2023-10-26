@@ -1,0 +1,26 @@
+.card{
+    /* height: 100%; */
+    min-height: 450px;
+    border-radius: 20px;
+    cursor: pointer;
+    padding-top: 10px;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25),
+    0 10px 10px rgba(0, 0, 0, 0.22);
+    transition: 0.4s;
+}
+
+img{
+    height: 250px;
+    width: 250px;
+    text-align: center;
+}
+.card:hover{
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16),
+    0 3px 6px rgba(0, 0, 0, 0.23);
+    transform: translate(0px,-8px);
+}
+.btn-details{
+    text-align: center;
+    text-decoration: none;
+    width: 100%;
+}
